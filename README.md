@@ -1,7 +1,5 @@
 # Numerical Methods in Physics
-It includes projects created for Numerical Methods in Physics lesson. 
-
-I am taking PHYS315 Numerical Methods in Physics lesson right now. In this lesson, it is aimed to write codes in C language numerically. Here are the projects that I wrote for the lesson.
+It includes projects created for PHYS315 Numerical Methods in Physics lesson. In this lesson, it is aimed to write codes in C language numerically. Here are the numerical methods and topics of projects.
 
 ROOT FINDING
 --
@@ -10,16 +8,6 @@ Three projects were written to find root of an equation. Methods to find root ar
 - Secant Method
 - Newton-Raphson Method
 
-Bi Section Method
- -
-This method uses Intermediate Value Theorem of Calculus. For continuos function f(x), if f(a) * f(b) < 0 or f(a) * f(b) > 0 then there is at least one root between a and b. In the method, first interval is chosen. Then it is checked whether there is a root between the interval. If there is a root, midpoint is calculated. Values of function for each interval points are multiplied by value of function for midpoint. According to results, interval is changed. The process continues like this until finding the root.
- 
- Secant Method
- -
- 
- 
- Newton-Raphson Method
- -
  
  INTEGRATION
  --
@@ -28,9 +16,32 @@ This method uses Intermediate Value Theorem of Calculus. For continuos function 
  - Trapezoid Method
  - Simpson 1/3 Method
  
- Rectangular Method
- -
- Trapezoid Method
- -
- Simpson 1/3 Method
- -
+ 
+4th ORDER RUNGE-KUTTA METHOD
+--
+This method was used to solve second order differential equations with given initial conditions. Numerical and analytical solutions were compared by plotting the solutions on the same graph using GNUPlot, also.
+
+
+LINEAR REGRESSION
+--
+
+
+LEAST SQUARES
+--
+
+
+GAUSS ELIMINATION
+--
+
+
+LAPLACE EQUATION
+--
+
+
+VIBRATING STRING
+--
+
+
+HEAT EQUATION
+--
+
