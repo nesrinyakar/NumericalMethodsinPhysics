@@ -24,24 +24,24 @@ This method was used to solve second order differential equations with given ini
 
 LINEAR REGRESSION
 --
-
+Linear regression method was used. 
 
 LEAST SQUARES
 --
-
+For nonlinear equation ,which is y=a*e^b x, regression was done by nonlinear least square method.
 
 GAUSS ELIMINATION
 --
+Gauss elimination method was used to solve system of linear equations.
 
-
-LAPLACE EQUATION
+SPECIFIC EQUATIONS
 --
+Three equations listed below were solved numerically. 
+- Laplace Equation
+- Wave Equation
+- Heat Equation
 
 
-VIBRATING STRING
+FINAL PROJECT
 --
-
-
-HEAT EQUATION
---
-
+Topic of the project is vibrations in the Lennard-Jones Potential and calculation of linear expansion coefficient. For the material hydrogen molecule was chosen. Hydrogen molecule in LJ Potential was analyzed and its linear expansion coefficient was calculated. All details are given in the report. 
